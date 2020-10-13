@@ -2,7 +2,7 @@
 
 ## I'm a young developer looking to develop my skills and networking!
 - 🔭 I’m currently working on a open-source astronomy project (more details coming soon)!
-- 🌱 I’m currently learning: MERN Stack, Godot Game-engine, Forge API for Minecraft Modding
+- 🌱 I’m currently learning: MERN Stack, Godot Game-engine, and 3D modeling in Blender.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2020 Goals: Dive deep into game development, and learn more about front-end
 - 📕 Although I'm a fluent English speaker, Portuguese is my first language
